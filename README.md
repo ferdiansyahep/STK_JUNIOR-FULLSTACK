@@ -145,3 +145,18 @@ Backend aplikasi ini dilengkapi dengan dokumentasi OpenAPI (Swagger) interaktif.
 1. Pastikan server **Backend** sedang berjalan.
 2. Buka browser dan kunjungi:  
    👉 **[http://localhost:3000/api/docs](http://localhost:3000/api/docs)**
+
+
+## Screenshot
+
+**1. Main Dashboard & Menu Tree**
+![Main Dashboard]
+(Dashboard & Menu Tree.png)
+
+**2. Form Menu Create & Update**
+![Edit Menu]
+(Form Create & Update.png)
+
+**3. Swagger API Documentation**
+![Main Dashboard]
+(API Documentation.png)
