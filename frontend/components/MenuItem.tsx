@@ -33,7 +33,7 @@ export default function MenuItem({ item, isExpandAll }: { item: Menu, isExpandAl
           {item.name}
         </span>
 
-        {/* Tombol (+) Biru hanya muncul saat item diklik/aktif atau di-hover */}
+        {/* Tombol Tambah */}
         <button
           className={`ml-1 w-5 h-5 flex items-center justify-center rounded-full bg-blue-600 text-white transition-opacity ${isActive ? 'opacity-100' : 'opacity-0 group-hover:opacity-100'}`}
           onClick={(e) => {
